@@ -1,7 +1,5 @@
 # hparente1313
 
-Rebel with a keyboard...
-
 <!--
 <img src="https://em-content.zobj.net/source/whatsapp/420/flag-for-texas-ustx_1f3f4-e0075-e0073-e0074-e0078-e007f.png" height="23em">
 -->
